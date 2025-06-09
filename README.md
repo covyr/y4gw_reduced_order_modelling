@@ -10,8 +10,8 @@ The offline stage consists of:
   (p3peline)
 
 The online stage then consists of:
-  > Predicting the waveform values at the empirical time nodes, given a set of parameters.
-  > Interpolating across the time-series.
+- Predicting the waveform values at the empirical time nodes, given a set of parameters.
+- Interpolating across the time-series.
 
 Some subject-specific information for this project:
 - While this pipeline can be used to construct suurrogate waveform models generally, the specific waveforms in question throughout this project are gravitational waveforms produced by the merger of binary systems of black holes/neutron stars.
