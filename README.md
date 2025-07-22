@@ -14,7 +14,7 @@ The online stage then consists of:
 - Interpolating across the time-series.
 
 Some subject-specific information for this project:
-- While this pipeline can be used to construct suurrogate waveform models generally, the specific waveforms in question throughout this project are gravitational waveforms produced by the merger of binary systems of black holes/neutron stars.
+- While this pipeline can be used to construct suurrogate waveform models generally, the specific waveforms in question throughout this project are gravitational waveforms produced by the merger of binary systems of black holes/neutron stars. The relevnat fiducial models are SEOBNRv5PHM (precessing) and SEOBNRv5HM (non-precessing).
 - Due to the geometric nature of general relativity, we work with the units c=G=M=1, adopting dimensions of t/M for time, and working with normalised waveforms.
 - We first decompose the full waveforms into their spin-weighted spherical harmonics to simplify the problem.
 - Due to the highly oscillatory nature of the waveforms in question, we further decompose the modes into their amplitude and phase parts, which are much smoother and easier to model. These parts are modelled individually, and can be recombined to obtain the full waveforms.
