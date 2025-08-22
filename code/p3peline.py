@@ -1,3 +1,13 @@
+"""
+File: pipelineNS.py
+Author: Connor Campbell
+Description:
+    ...
+
+Workflow:
+    1. 
+"""
+
 import crc
 import sys
 
